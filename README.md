@@ -56,9 +56,11 @@ For the files:
 I export it to excel files for visualization purposses(For Blog).
 
 # Libraries
-Pandas,
-Numpy,
-Matplotlib.
+* Pandas.
+
+* Numpy.
+
+* Matplotlib.
 
 # Acknowledgments
 
