@@ -55,6 +55,19 @@ For the files:
 
 I export it to excel files for visualization purposses(For Blog).
 
+# Libraries
+Pandas,
+Numpy,
+Matplotlib.
+
+# Acknowledgments
+
+Thanks to yourfates.com and syamsulhidayatlubis for uploading the data.
+
+Qout on blog: https://www.yourfates.com/gaming-quotes-and-gaming-status-for-gamers/
+
+Data Source on Kaggle: https://www.kaggle.com/syamsulhidayatlubis/vgsales
+
 
 # Results
 
